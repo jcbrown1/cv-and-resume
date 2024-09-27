@@ -22,6 +22,8 @@
 
 % Configure page margins with geometry
 \geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+\usepackage{multicol}
+\usepackage{multirow}
 
 % Color for highlights
 % Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
@@ -39,7 +41,7 @@
 % \definecolor{sectiondivider}{HTML}{5D5D5D}
 
 % Set false if you don't want to highlight section with awesome color
-\setbool{acvSectionColorHighlight}{true}
+\setbool{acvSectionColorHighlight}{false}
 
 % If you would like to change the social information separator from a pipe (|) to something else
 \renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
@@ -56,7 +58,7 @@
 \address{Edmonton, Alberta Canada}
 
 \mobile{(+1) 780-206-8004}
-\email{jcbrown1@ualberta.com}
+\email{jcbrown1@ualberta.ca}
 %\dateofbirth{January 1st, 1970}
 % \homepage{www.posquit0.com}
 % \github{posquit0}
@@ -96,14 +98,16 @@
 %	CV/RESUME CONTENT
 %	Each section is imported separately, open each file in turn to modify content
 %-------------------------------------------------------------------------------
-\input{cv/education.tex}
+% \begin{multicols}{2}
+% \end{multicols}
 \input{cv/skills.tex}
+\input{cv/education.tex}
 \input{cv/experience.tex}
-\input{cv/student_clubs.tex}
-\newpage
 \input{cv/projects.tex}
-\input{cv/honors.tex}
-\input{cv/certificates.tex}
+% \newpage
+% \input{cv/student_clubs.tex}
+% \input{cv/honors.tex}  
+% \input{cv/certificates.tex}
 
 
 
