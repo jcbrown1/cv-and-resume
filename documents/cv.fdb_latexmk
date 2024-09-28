@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1727469056 "/home/joshua/Documents/Resume/cv-and-resume/documents/cv.tex" "cv.pdf" "cv" 1727469059
+["lualatex"] 1727544680 "/home/joshua/Documents/Resume/cv-and-resume/documents/cv.tex" "cv.pdf" "cv" 1727544682
   "/home/joshua/.texlive2021/texmf-var/luatex-cache/generic/fonts/otl/fontawesome5brands-regular-400.luc" 1713471736 180448 51627d1ecaa398921f7d18b326c6a8b3 ""
   "/home/joshua/.texlive2021/texmf-var/luatex-cache/generic/fonts/otl/fontawesome5free-solid-900.luc" 1713471736 380944 cf60173242d29bf3175ee417d05a3687 ""
   "/home/joshua/.texlive2021/texmf-var/luatex-cache/generic/fonts/otl/latinmodern-math.luc" 1713471751 544952 2919b7ba31b25f96ae94b041b74cfd57 ""
@@ -36,7 +36,7 @@
   "/home/joshua/.texlive2021/texmf-var/luatex-cache/generic/fonts/otl/sourcesanspro-semibold.luc" 1713471746 661372 09c583729493669483d8cb091562c486 ""
   "/home/joshua/.texlive2021/texmf-var/luatex-cache/generic/fonts/otl/sourcesanspro-semiboldit.luc" 1713471747 407763 1ca0b451ef74004e5dd815cb3f4cfc25 ""
   "/home/joshua/.texlive2021/texmf-var/luatex-cache/generic/names/luaotfload-names.luc" 1713471735 2557711 7bfbf996547dbb823a4c59b56d00e47d ""
-  "/home/joshua/Documents/Resume/cv-and-resume/documents/cv.tex" 1727469051 3966 5f39c9a4ac779abeaef2b24c998c7342 ""
+  "/home/joshua/Documents/Resume/cv-and-resume/documents/cv.tex" 1727544670 3952 2452cb7fe328d282f3475d927555afa2 ""
   "/usr/share/texlive/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-RegularIt.otf" 1587936753 208408 ad486cdf84121217b2b4cac5b8fc7816 ""
   "/usr/share/texlive/texmf-dist/fonts/opentype/google/roboto/Roboto-Bold.otf" 1576101225 185508 37ee83b738cc08dd27d3bcb685339489 ""
   "/usr/share/texlive/texmf-dist/fonts/opentype/google/roboto/Roboto-Italic.otf" 1576101225 206388 55a26b3cb0c9a628fccffb2820e0f5de ""
@@ -263,8 +263,8 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1709254567 4073795 a82a847ac97773bf4a607ab050efa3a1 ""
   "/var/lib/texmf/web2c/luahbtex/lualatex.fmt" 1713471694 4555456 83ac261e89ca3f4fe438bf10ec3ceb72 ""
   "awesome-cv.cls" 1727453158 30126 e6d6f40b73c4e8c6fa0100ad07d1e286 ""
-  "cv.aux" 1727469059 717 44a0ba68b1808b31e6f167494124e687 "lualatex"
-  "cv.tex" 1727469051 3966 5f39c9a4ac779abeaef2b24c998c7342 ""
+  "cv.aux" 1727544682 717 44a0ba68b1808b31e6f167494124e687 "lualatex"
+  "cv.tex" 1727544670 3952 2452cb7fe328d282f3475d927555afa2 ""
   "cv/education.tex" 1727159545 727 1c89d80f39e827f5baa3cb46aedb9c73 ""
   "cv/experience.tex" 1727126635 4572 188d537be02dbf6ded25dab97930625b ""
   "cv/projects.tex" 1727453995 6382 a2ff7147225255d2f6ba3c0433022646 ""
